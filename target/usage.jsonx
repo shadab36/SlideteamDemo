@@ -1,0 +1,92 @@
+[
+  {
+    "source": "^user in on pricing page$",
+    "steps": [
+      {
+        "name": "user in on pricing page",
+        "aggregatedDurations": {
+          "average": 2.2643506,
+          "median": 2.2643506
+        },
+        "durations": [
+          {
+            "duration": 2.2643506,
+            "location": "C:/Users/Administrator/Desktop/slideteam.com.test/src/test/resources/login.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter password$",
+    "steps": [
+      {
+        "name": "user enter password",
+        "aggregatedDurations": {
+          "average": 2.0616613,
+          "median": 2.0616613
+        },
+        "durations": [
+          {
+            "duration": 2.0616613,
+            "location": "C:/Users/Administrator/Desktop/slideteam.com.test/src/test/resources/login.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter username$",
+    "steps": [
+      {
+        "name": "user enter username",
+        "aggregatedDurations": {
+          "average": 2.1317318,
+          "median": 2.1317318
+        },
+        "durations": [
+          {
+            "duration": 2.1317318,
+            "location": "C:/Users/Administrator/Desktop/slideteam.com.test/src/test/resources/login.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User is already on Sign in page$",
+    "steps": [
+      {
+        "name": "User is already on Sign in page",
+        "aggregatedDurations": {
+          "average": 3.7817954,
+          "median": 3.7817954
+        },
+        "durations": [
+          {
+            "duration": 3.7817954,
+            "location": "C:/Users/Administrator/Desktop/slideteam.com.test/src/test/resources/login.feature:3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user clicks on Login button$",
+    "steps": [
+      {
+        "name": "user clicks on Login button",
+        "aggregatedDurations": {
+          "average": 8.8318974,
+          "median": 8.8318974
+        },
+        "durations": [
+          {
+            "duration": 8.8318974,
+            "location": "C:/Users/Administrator/Desktop/slideteam.com.test/src/test/resources/login.feature:6"
+          }
+        ]
+      }
+    ]
+  }
+]

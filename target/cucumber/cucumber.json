@@ -1,0 +1,82 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Slidetech login functionality",
+        "description": "",
+        "id": "slidetech-login;slidetech-login-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3781795400,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "User is already on Sign in page",
+            "match": {
+              "location": "LoginStepPage.user_is_already_on_Sign_in_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2131731800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user enter username",
+            "match": {
+              "location": "LoginStepPage.user_enter_username()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2061661300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enter password",
+            "match": {
+              "location": "LoginStepPage.user_enter_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 8831897400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on Login button",
+            "match": {
+              "location": "LoginStepPage.user_clicks_on_Login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2264350600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user in on pricing page",
+            "match": {
+              "location": "LoginStepPage.user_in_on_pricing_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Slidetech login",
+    "description": "",
+    "id": "slidetech-login",
+    "keyword": "Feature",
+    "uri": "C:/Users/Administrator/Desktop/slideteam.com.test/src/test/resources/login.feature"
+  }
+]

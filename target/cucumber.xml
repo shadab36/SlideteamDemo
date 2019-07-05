@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="19.071437">
+<testcase classname="Slidetech login" name="Slidetech login functionality" time="19.071437">
+<system-out><![CDATA[Given User is already on Sign in page.......................................passed
+Then user enter username....................................................passed
+Then user enter password....................................................passed
+Then user clicks on Login button............................................passed
+Then user in on pricing page................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
