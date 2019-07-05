@@ -1,9 +1,0 @@
-setupClass\TestStep\LoginStepPage.class
-setupClass\TestStep\BlogComment.class
-setupClass\TestStep\DesignServicesFormSteps.class
-setupClass\TestStep\Contact_Us_To_Get_Started.class
-setupClass\TestStep\Contact_us_steps.class
-setupClass\TestStep\Questionnaire.class
-setupClass\TestRunner.class
-setupClass\SetupClass.class
-setupClass\TestStep\ResearchServicesSteps.class

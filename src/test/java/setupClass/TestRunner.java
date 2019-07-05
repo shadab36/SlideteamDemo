@@ -8,7 +8,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = {"C:\\Users\\Administrator\\Desktop\\slideteam.com.test\\src\\test\\resources\\login.feature"},
+@CucumberOptions(features = {"."},
 plugin= {"pretty","html:target/site/cucumber-pretty","json:target/cucumber/cucumber.json","usage:target/usage.jsonx","junit:target/cucumber.xml"})
 
 
